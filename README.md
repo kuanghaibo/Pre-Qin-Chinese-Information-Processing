@@ -1,3 +1,4 @@
 # Pre-Qin-Chinese-Information-Processing
-Pre-Qin Chinese Information Processing focusing on how to apply variety of NLP theories and technologys to the specific Pre-Qin Chinese corpus.<BR/>
-Firstly, we build a trilingual parallel corpus containing Pre-Qin Chinese, Modern Chinese and commentaries to the literatures. And we try to achieve the word alignment of the texts stored by the filetype of XML.
+Pre-Qin Chinese Information Processing focusing on how to apply variety of NLP theories and technologys to Pre-Qin Chinese.<BR/>
+We divide our work into 3 parts, which are Resources Development, Processing Algorithm and Practical Application.
+
